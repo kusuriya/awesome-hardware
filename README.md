@@ -1,4 +1,5 @@
 # awesome-hardware
+Im trying to gather hardware that respects your privacy and freedom. Right now my main focus has been guys that till the Intel AMT/IME
 
 ## Intel Management Engine
 ### Terms
@@ -19,7 +20,6 @@ Removed - This state no one has got to yet. This is all of the AMT/IME stack is 
 
 * [Purism](https://puri.sm/) - Purism's products were designed from the ground up with privacy and freedom in mind. They have hardware switches to physically turn off the mic, camera, and wifi. You can also order them without wireless, and with a USB stick so you can airgap QUBES os on it. The BIOS has been replaced with CoreBoot and the Intel Management Engine has been neutralized. The processors are still a bit older due to the complexities in neutralizing the IME but they are probably the newest machines you can get where the IME is neutralized.
   * https://puri.sm/learn/intel-me/ purism's info on what they have done to neuter the IME
-* Most ARM devices - It is worth noting most ARMv7 and newer devices either directly use coreboot or use an offshoot of coreboot that is still open. Depending on how open and free you want your hardware ARM without trused/secure boot is generally a safe bet. Also at the same time if you are really concerned about Open Hardware keep away from anything with a Broadcom or Samsung chipset for the most part their specsheets are very much closed and require an NDA to see.
 
 #### LibreBoot
 
